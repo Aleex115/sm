@@ -892,6 +892,7 @@
       "obtain_cobalt_ingot": "2025-05-21 18:06:09 +0000",
       "obtain_topaz_gem": "2025-05-21 18:41:07 +0000",
       "obtain_tourmaline": "2025-05-21 18:42:50 +0000",
+      "obtain_ruby_gem": "2025-05-21 19:04:36 +0000",
       "obtain_tin_ingot": "2025-05-21 17:45:28 +0000",
       "obtain_silver_ingot": "2025-05-21 18:28:52 +0000",
       "obtain_sapphire_gem": "2025-05-21 18:48:22 +0000",
@@ -1733,6 +1734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/huge_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-05-21 18:46:49 +0000"
@@ -2075,6 +2082,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 19:03:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-21 18:53:00 +0000"
@@ -2096,6 +2109,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-21 18:34:07 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_ruby": {
+    "criteria": {
+      "obtain_ruby_gem": "2025-05-21 19:04:36 +0000"
     },
     "done": true
   },
@@ -2186,6 +2205,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-21 18:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
     },
     "done": true
   },
@@ -2351,6 +2376,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-21 18:21:40 +0000"
@@ -2408,6 +2439,12 @@
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-05-21 18:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
     },
     "done": true
   },
@@ -2621,6 +2658,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-21 19:08:16 +0000"
+    },
+    "done": true
+  },
   "mores:obtain_silver_ore": {
     "criteria": {
       "obtain_silver_ore": "2025-05-21 18:21:56 +0000"
@@ -2777,6 +2820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-21 18:41:33 +0000"
@@ -2884,6 +2933,12 @@
       "has_iron_ingot": "2025-05-21 18:52:27 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "cave_spider_head": "2025-05-21 19:02:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
@@ -3041,6 +3096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-21 18:25:23 +0000"
@@ -3068,6 +3129,12 @@
   "spartanweaponry:recipes/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2025-05-21 18:52:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
     },
     "done": true
   },
@@ -3218,6 +3285,12 @@
   "spartanweaponry:recipes/silver_throwing_knife": {
     "criteria": {
       "has_silver_ingot": "2025-05-21 18:09:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
     },
     "done": true
   },
@@ -3410,6 +3483,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-05-21 17:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-21 19:01:25 +0000"
     },
     "done": true
   },
