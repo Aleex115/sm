@@ -1679,3 +1679,13 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [21May2025 19:08:16.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has reached the goal [Strong or Careful]
 [21May2025 19:08:16.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK was slain by Betrayed Guzzler
 [21May2025 19:08:16.026] [Server thread/INFO] [tombstone/]: The player BBBBa_oprsWK has successfully been saved
+[21May2025 19:09:09.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has reached the goal [Here They Come]
+[21May2025 19:10:13.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Bitcoin]
+[21May2025 19:17:52.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[21May2025 19:17:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[21May2025 19:18:00.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67b3d3f3[id=<null>,name=Alex115KLK,properties={},legacy=false] (/127.121.220.229:50485) lost connection: Disconnected
+[21May2025 19:18:04.365] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1536d61e[id=<null>,name=Alex115KLK,properties={},legacy=false] (/127.121.220.229:45667) lost connection: Disconnected
+[21May2025 19:18:06.015] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Alex115KLK is fc40c7a9-686b-44f3-bd23-a00c90724f58
+[21May2025 19:18:08.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.121.220.229:43595] logged in with entity id 22101 at (557.6467251163009, -44.0, 221.69999998807907)
+[21May2025 19:18:08.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
+[21May2025 19:18:08.783] [Server thread/INFO] [Jade/]: Syncing config to Alex115KLK (fc40c7a9-686b-44f3-bd23-a00c90724f58)
