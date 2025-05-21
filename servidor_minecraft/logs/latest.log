@@ -1610,3 +1610,24 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [21May2025 17:45:28.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [More Metal]
 [21May2025 17:45:59.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [More Metal]
 [21May2025 17:46:30.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Might As Well Use Stone]
+[21May2025 17:50:32.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Monster Hunter]
+[21May2025 17:51:12.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Monster Hunter]
+[21May2025 17:51:20.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK was killed by Witch using magic
+[21May2025 17:51:20.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Your First Grave]
+[21May2025 17:51:20.195] [Server thread/INFO] [tombstone/]: The player BBBBa_oprsWK has successfully been saved
+[21May2025 17:52:47.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Knowledge of Death]
+[21May2025 17:52:47.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Ambush]
+[21May2025 17:53:30.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Hephaestos]
+[21May2025 17:53:31.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Isn't It Iron Pick]
+[21May2025 17:53:34.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Going Clubbing]
+[21May2025 17:53:37.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Look at my horse]
+[21May2025 17:53:37.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Rotten to the Core]
+[21May2025 17:54:30.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
+[21May2025 17:54:30.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
+[21May2025 17:54:51.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [The Bender of the 15th Century]
+[21May2025 17:55:03.821] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ad8c5ab[id=<null>,name=BBBBa_oprsWK,properties={},legacy=false] (/127.37.82.47:40971) lost connection: Disconnected
+[21May2025 17:55:10.626] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player BBBBa_oprsWK is 3b4be922-4854-4bbc-b6b6-0705a8f43bc3
+[21May2025 17:55:13.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BBBBa_oprsWK[/127.37.82.47:51689] logged in with entity id 4300 at (50.435005367624015, 66.9375, -151.22679270751425)
+[21May2025 17:55:13.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
+[21May2025 17:55:13.773] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (3b4be922-4854-4bbc-b6b6-0705a8f43bc3)
+[21May2025 17:57:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Best Friends Forever]
