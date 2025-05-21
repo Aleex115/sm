@@ -1637,3 +1637,21 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [21May2025 18:02:15.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Quicksilver]
 [21May2025 18:04:49.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Very Balt Of You]
 [21May2025 18:05:01.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Very Balt Of You]
+[21May2025 18:13:16.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Going Clubbing]
+[21May2025 18:13:38.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Blade of the Samurai]
+[21May2025 18:20:30.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK fell from a high place
+[21May2025 18:20:30.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Your First Grave]
+[21May2025 18:20:30.652] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[21May2025 18:21:56.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Quicksilver]
+[21May2025 18:22:29.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK was kicked for floating too long!
+[21May2025 18:22:29.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[21May2025 18:22:29.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[21May2025 18:22:29.967] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[21May2025 18:22:34.849] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Alex115KLK is fc40c7a9-686b-44f3-bd23-a00c90724f58
+[21May2025 18:22:37.686] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.121.220.229:40019] logged in with entity id 10126 at (416.9631217429275, 96.9553398926649, 91.81751512773488)
+[21May2025 18:22:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
+[21May2025 18:22:37.743] [Server thread/INFO] [Jade/]: Syncing config to Alex115KLK (fc40c7a9-686b-44f3-bd23-a00c90724f58)
+[21May2025 18:23:18.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [The Negotiator]
+[21May2025 18:26:27.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [A Strange Grave Dust]
+[21May2025 18:26:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Ashes 'n Bones]
+[21May2025 18:26:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Look at my horse]
