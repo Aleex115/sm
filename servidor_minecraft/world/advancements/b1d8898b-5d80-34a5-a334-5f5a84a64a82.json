@@ -3051,6 +3051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-22 22:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-05-22 21:43:58 +0000"
@@ -3123,6 +3129,12 @@
     },
     "done": true
   },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-05-22 22:05:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-05-22 21:48:36 +0000"
@@ -3180,6 +3192,12 @@
   "securitycraft:recipes/redstone/reinforced_lever": {
     "criteria": {
       "has_cobble": "2025-05-22 21:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-22 22:06:20 +0000"
     },
     "done": true
   },
