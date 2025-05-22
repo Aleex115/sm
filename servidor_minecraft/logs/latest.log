@@ -251,3 +251,25 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [22May2025 21:14:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was slain by Betrayed Guzzler
 [22May2025 21:14:14.477] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
 [22May2025 21:14:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Take Aim]
+[22May2025 21:18:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Quicksilver]
+[22May2025 21:20:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Even Worse Than Copper]
+[22May2025 21:20:14.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 was slain by Fire Dragon
+[22May2025 21:20:14.620] [Server thread/INFO] [tombstone/]: The player parlacabras69 has successfully been saved
+[22May2025 21:21:41.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Ice Bucket Challenge]
+[22May2025 21:23:50.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[22May2025 21:23:50.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[22May2025 21:24:20.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
+[22May2025 21:25:10.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Ice Dragon
+[22May2025 21:25:25.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Dragonslayer]
+[22May2025 21:25:26.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Ice Dragon
+[22May2025 21:25:39.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Ice Dragon
+[22May2025 21:25:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Ice Dragon
+[22May2025 21:26:01.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 was slain by Fire Dragon
+[22May2025 21:26:01.573] [Server thread/INFO] [tombstone/]: The player parlacabras69 has successfully been saved
+[22May2025 21:26:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has reached the goal [Strong or Careful]
+[22May2025 21:26:05.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 was burnt to a crisp whilst fighting Fire Dragon
+[22May2025 21:26:05.518] [Server thread/INFO] [tombstone/]: The player markytos09 has successfully been saved
+[22May2025 21:26:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has reached the goal [Chain Death]
+[22May2025 21:26:17.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 was slain by Fire Dragon
+[22May2025 21:26:17.623] [Server thread/INFO] [tombstone/]: The player parlacabras69 has successfully been saved
+[22May2025 21:27:11.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported markytos09 to eltorren

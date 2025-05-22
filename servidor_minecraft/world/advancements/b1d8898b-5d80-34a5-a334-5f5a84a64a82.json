@@ -688,6 +688,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-22 21:16:36 +0000",
       "cooked_mutton": "2025-05-22 19:03:19 +0000",
       "cooked_beef": "2025-05-22 18:36:54 +0000",
       "baked_potato": "2025-05-22 18:54:48 +0000",
@@ -2647,6 +2648,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-05-22 21:13:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_reinforced_cobblestone": "2025-05-22 21:08:17 +0000"
@@ -2671,6 +2678,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-22 21:13:45 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_all_battleaxes": {
+    "criteria": {
+      "obtain_tourmaline_battleaxe": "2025-05-22 21:15:23 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
     "criteria": {
       "has_block": "2025-05-22 21:08:17 +0000"
@@ -2689,9 +2708,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-22 21:13:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_lever": {
     "criteria": {
       "has_cobble": "2025-05-22 21:08:17 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-22 21:13:44 +0000"
     },
     "done": true
   },
