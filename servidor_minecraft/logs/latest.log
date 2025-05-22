@@ -1,49 +1,49 @@
-[22May2025 17:42:54.299] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[22May2025 17:42:54.303] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[22May2025 17:42:54.814] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[22May2025 17:42:54.865] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sm/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[22May2025 17:42:55.161] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sm/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[22May2025 17:42:55.163] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sm/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[22May2025 17:42:55.165] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sm/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[22May2025 17:42:55.166] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sm/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[22May2025 17:42:55.322] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[22May2025 17:42:57.938] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[22May2025 17:42:58.029] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[22May2025 17:42:58.072] [main/WARN] [mixin/]: Reference map 'mixins.sons_of_sins.refmap.json' for mixins.sons_of_sins.json could not be read. If this is a development environment you can ignore this message
-[22May2025 17:42:58.080] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[22May2025 17:42:59.736] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[22May2025 17:43:05.779] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[22May2025 17:43:05.781] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[22May2025 17:43:06.183] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[22May2025 17:43:06.189] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[22May2025 17:43:06.189] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[22May2025 17:43:06.189] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[22May2025 17:43:06.190] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[22May2025 17:43:06.190] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[22May2025 17:43:06.190] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[22May2025 17:43:06.346] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[22May2025 17:43:06.347] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[22May2025 17:43:06.348] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[22May2025 17:43:06.580] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[22May2025 17:43:06.580] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[22May2025 17:43:06.884] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[22May2025 17:43:06.888] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[22May2025 17:43:10.779] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[22May2025 17:43:10.868] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[22May2025 17:43:10.924] [main/INFO] [journeymap/]: Initializing Packet Registries
-[22May2025 17:43:11.075] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[22May2025 17:43:11.075] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[22May2025 17:43:11.131] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[22May2025 17:43:11.161] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[22May2025 17:43:11.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[22May2025 17:43:11.167] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[22May2025 17:43:11.173] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[22May2025 17:43:11.176] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[22May2025 17:43:11.176] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[22May2025 17:43:11.179] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[22May2025 17:43:11.180] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[22May2025 17:43:11.181] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
-[22May2025 17:43:11.398] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[22May2025 20:36:39.555] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[22May2025 20:36:39.559] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[22May2025 20:36:40.728] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[22May2025 20:36:40.793] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sm/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[22May2025 20:36:41.173] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sm/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[22May2025 20:36:41.178] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sm/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[22May2025 20:36:41.179] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sm/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[22May2025 20:36:41.181] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sm/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[22May2025 20:36:41.377] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[22May2025 20:36:43.969] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[22May2025 20:36:44.036] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[22May2025 20:36:44.090] [main/WARN] [mixin/]: Reference map 'mixins.sons_of_sins.refmap.json' for mixins.sons_of_sins.json could not be read. If this is a development environment you can ignore this message
+[22May2025 20:36:44.100] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[22May2025 20:36:45.668] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[22May2025 20:36:55.263] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[22May2025 20:36:55.267] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[22May2025 20:36:55.439] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[22May2025 20:36:55.440] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[22May2025 20:36:55.440] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[22May2025 20:36:55.440] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[22May2025 20:36:55.440] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[22May2025 20:36:55.440] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[22May2025 20:36:55.440] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[22May2025 20:36:55.463] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[22May2025 20:36:55.463] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[22May2025 20:36:55.468] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[22May2025 20:36:56.067] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[22May2025 20:36:56.069] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[22May2025 20:36:56.726] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[22May2025 20:36:56.728] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[22May2025 20:37:00.717] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[22May2025 20:37:00.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[22May2025 20:37:00.893] [main/INFO] [journeymap/]: Initializing Packet Registries
+[22May2025 20:37:01.030] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[22May2025 20:37:01.031] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[22May2025 20:37:01.122] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[22May2025 20:37:01.209] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[22May2025 20:37:01.216] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[22May2025 20:37:01.218] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[22May2025 20:37:01.219] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[22May2025 20:37:01.221] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[22May2025 20:37:01.221] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[22May2025 20:37:01.222] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[22May2025 20:37:01.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[22May2025 20:37:01.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[22May2025 20:37:01.361] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -58,27 +58,27 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[22May2025 17:43:11.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[22May2025 17:43:11.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.23 Target: 1.20.1-1.1.27
-[22May2025 17:43:11.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[22May2025 17:43:11.827] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[22May2025 17:43:11.828] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[22May2025 17:43:12.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: AHEAD Current: 1.10.0.1 Target: null
-[22May2025 17:43:12.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[22May2025 17:43:12.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
-[22May2025 17:43:12.081] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[22May2025 17:43:12.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[22May2025 17:43:12.106] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[22May2025 17:43:12.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[22May2025 17:43:12.415] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[22May2025 17:43:12.741] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[22May2025 17:43:15.215] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22May2025 17:43:18.066] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sm/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
-[22May2025 17:43:18.067] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sm/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
-[22May2025 17:43:19.618] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[22May2025 17:43:20.389] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[22May2025 17:43:20.405] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[22May2025 17:43:20.474] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/shipwreck_treasure
+[22May2025 20:37:01.363] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[22May2025 20:37:01.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: OUTDATED Current: 1.20.1-1.1.23 Target: 1.20.1-1.1.27
+[22May2025 20:37:01.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[22May2025 20:37:01.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[22May2025 20:37:01.820] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[22May2025 20:37:01.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: AHEAD Current: 1.10.0.1 Target: null
+[22May2025 20:37:01.956] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[22May2025 20:37:01.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
+[22May2025 20:37:01.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[22May2025 20:37:01.991] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[22May2025 20:37:01.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[22May2025 20:37:02.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[22May2025 20:37:02.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[22May2025 20:37:02.902] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[22May2025 20:37:06.526] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22May2025 20:37:09.833] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sm/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/assets/.mcassetsroot' uses unexpected schema
+[22May2025 20:37:09.833] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sm/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23159!/data/.mcassetsroot' uses unexpected schema
+[22May2025 20:37:11.356] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[22May2025 20:37:12.324] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[22May2025 20:37:12.337] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[22May2025 20:37:12.409] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecraft:chests/shipwreck_treasure
 com.google.gson.JsonSyntaxException: Unknown type ''
 	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23159!/:?]
 	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
@@ -120,420 +120,116 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[22May2025 17:43:20.502] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[22May2025 17:43:20.678] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[22May2025 17:43:20.678] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[22May2025 17:43:20.678] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[22May2025 17:43:20.678] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[22May2025 17:43:20.681] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[22May2025 17:43:20.681] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[22May2025 17:43:20.689] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[22May2025 17:43:20.689] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[22May2025 17:43:20.695] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[22May2025 17:43:20.701] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[22May2025 17:43:20.701] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[22May2025 17:43:20.729] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[22May2025 17:43:20.730] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[22May2025 17:43:20.731] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[22May2025 17:43:20.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[22May2025 17:43:20.744] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[22May2025 17:43:20.744] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[22May2025 17:43:20.745] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[22May2025 17:43:20.745] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[22May2025 17:43:20.751] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[22May2025 17:43:20.751] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
-[22May2025 17:43:20.752] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[22May2025 17:43:20.760] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[22May2025 17:43:20.769] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[22May2025 17:43:20.769] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[22May2025 17:43:20.770] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[22May2025 17:43:20.770] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[22May2025 17:43:20.776] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[22May2025 17:43:20.783] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
-[22May2025 17:43:20.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
-[22May2025 17:43:20.815] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[22May2025 17:43:20.816] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[22May2025 17:43:20.819] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[22May2025 17:43:20.819] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[22May2025 17:43:20.827] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[22May2025 17:43:20.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[22May2025 17:43:20.835] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[22May2025 17:43:20.838] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[22May2025 17:43:20.839] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[22May2025 17:43:20.843] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[22May2025 17:43:20.848] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
-[22May2025 17:43:21.027] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3676 advancements
-[22May2025 17:43:21.040] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[22May2025 17:43:21.047] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[22May2025 17:43:21.059] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[22May2025 17:43:23.453] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.910827ms
-[22May2025 17:43:23.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[22May2025 17:43:23.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[22May2025 17:43:23.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[22May2025 17:43:23.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[22May2025 17:43:23.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[22May2025 17:43:23.715] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[22May2025 17:43:23.801] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22May2025 17:43:23.801] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[22May2025 17:43:23.801] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22May2025 17:43:23.801] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[22May2025 17:43:23.818] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22May2025 17:43:23.819] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22May2025 17:43:23.822] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[22May2025 17:43:23.991] [Server thread/INFO] [Framework/]: Loading server configs...
-[22May2025 17:43:23.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[22May2025 17:43:27.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[22May2025 17:43:33.317] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.337] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.349] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.389] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.417] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.444] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.460] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.478] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.496] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.519] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.525] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.536] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:33.558] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:34.063] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[22May2025 17:43:34.439] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
-[22May2025 17:43:34.940] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
-[22May2025 17:43:35.351] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7912 ms
-[22May2025 17:43:35.352] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.538s)! For help, type "help"
-[22May2025 17:43:35.398] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[22May2025 17:43:35.439] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[22May2025 17:43:35.439] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[22May2025 17:43:42.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.121.220.229:50149] logged in with entity id 911 at (-7.5, 64.0, -5.5)
-[22May2025 17:43:42.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
-[22May2025 17:43:42.903] [Server thread/INFO] [Jade/]: Syncing config to Alex115KLK (dd631ffb-4da3-31da-b805-8879fab74020)
-[22May2025 17:43:45.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BBBBa_oprsWK[/127.37.82.47:43519] logged in with entity id 981 at (-3.5, 64.0, -6.5)
-[22May2025 17:43:45.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
-[22May2025 17:43:45.180] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (b620d934-a090-3357-92db-bcd992043ab1)
-[22May2025 17:44:12.645] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4c0ff1bd[id=<null>,name=parlacabras69,properties={},legacy=false] (/127.1.238.52:43733): Took too long to log in
-[22May2025 17:44:12.646] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c0ff1bd[id=<null>,name=parlacabras69,properties={},legacy=false] (/127.1.238.52:43733) lost connection: Took too long to log in
-[22May2025 17:44:12.680] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22May2025 17:44:45.330] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@350809c2[id=<null>,name=parlacabras69,properties={},legacy=false] (/127.1.238.52:34603) lost connection: Disconnected
-[22May2025 17:44:54.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: parlacabras69[/127.1.238.52:57001] logged in with entity id 1421 at (0.5, 74.0, 8.5)
-[22May2025 17:44:54.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 joined the game
-[22May2025 17:44:54.523] [Server thread/INFO] [Jade/]: Syncing config to parlacabras69 (c7207ee5-b372-3d4a-98f8-9231f0be9f73)
-[22May2025 17:45:07.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was slain by Zombie
-[22May2025 17:45:07.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Your First Grave]
-[22May2025 17:45:07.569] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
-[22May2025 17:45:44.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Here They Come]
-[22May2025 17:46:08.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Stone Age]
-[22May2025 17:46:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Hephaestos]
-[22May2025 17:46:08.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Getting an Upgrade]
-[22May2025 17:46:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [More Metal]
-[22May2025 17:46:09.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Look at my horse]
-[22May2025 17:46:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Quicksilver]
-[22May2025 17:46:18.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [More Metal]
-[22May2025 17:46:35.826] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
-[22May2025 17:46:35.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
-[22May2025 17:46:41.391] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BBBBa_oprsWK[/127.37.82.47:54141] logged in with entity id 1971 at (180.10937739482566, 74.0, -38.168739007096015)
-[22May2025 17:46:41.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
-[22May2025 17:46:41.478] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (b620d934-a090-3357-92db-bcd992043ab1)
-[22May2025 17:47:33.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Toss A Coin To This Miner]
-[22May2025 17:47:51.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Reaping What You Sow]
-[22May2025 17:48:10.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Might As Well Use Stone]
-[22May2025 17:49:41.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Straightening the Scythes]
-[22May2025 17:50:26.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Monster Hunter]
-[22May2025 17:51:11.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Best Friends Forever]
-[22May2025 17:53:44.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Stone Age]
-[22May2025 18:00:18.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Death To Werewolves!]
-[22May2025 18:00:35.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 was slain by Zombie
-[22May2025 18:00:35.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Your First Grave]
-[22May2025 18:00:35.239] [Server thread/INFO] [tombstone/]: The player parlacabras69 has successfully been saved
-[22May2025 18:00:43.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Acquire Hardware]
-[22May2025 18:00:44.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has reached the goal [Here They Come]
-[22May2025 18:02:24.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Even Worse Than Copper]
-[22May2025 18:03:16.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Monster Hunter]
-[22May2025 18:04:25.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Getting an Upgrade]
-[22May2025 18:04:56.375] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: parlacabras69 lost connection: Timed out
-[22May2025 18:04:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 left the game
-[22May2025 18:04:56.427] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[22May2025 18:04:59.927] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
-[22May2025 18:04:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
-[22May2025 18:05:11.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BBBBa_oprsWK[/127.37.82.47:44551] logged in with entity id 8676 at (345.9101039218651, 65.0, -248.00457544182694)
-[22May2025 18:05:11.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
-[22May2025 18:05:11.551] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (b620d934-a090-3357-92db-bcd992043ab1)
-[22May2025 18:05:35.734] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43dede9d[id=<null>,name=parlacabras69,properties={},legacy=false] (/127.1.238.52:42331) lost connection: Disconnected
-[22May2025 18:06:07.784] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f86544e[id=<null>,name=parlacabras69,properties={},legacy=false] (/127.1.238.52:42933) lost connection: Disconnected
-[22May2025 18:06:08.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Suit Up]
-[22May2025 18:06:24.283] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5e0a3f2f[id=<null>,name=parlacabras69,properties={},legacy=false] (/127.1.238.52:43071) lost connection: Disconnected
-[22May2025 18:06:32.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: parlacabras69[/127.1.238.52:45743] logged in with entity id 9389 at (283.2206967564989, 72.0, -152.1764392908453)
-[22May2025 18:06:32.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 joined the game
-[22May2025 18:06:32.136] [Server thread/INFO] [Jade/]: Syncing config to parlacabras69 (c7207ee5-b372-3d4a-98f8-9231f0be9f73)
-[22May2025 18:10:14.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Acquire Hardware]
-[22May2025 18:12:02.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Very Balt Of You]
-[22May2025 18:12:39.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Very Balt Of You]
-[22May2025 18:13:10.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Even Worse Than Copper]
-[22May2025 18:13:12.825] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,sons_of_sins:sons_of_sins,framework:play,curios:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,tombstone:tombstone_channel,mowziesmobs:net,sophisticatedcore:channel,ironchest:network,spartanweaponry:network,twilightforest:channel,geckolib:main] rejected vanilla connections
-[22May2025 18:13:12.826] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.89.241.63:54999] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[22May2025 18:13:47.614] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,sons_of_sins:sons_of_sins,framework:play,curios:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,tombstone:tombstone_channel,mowziesmobs:net,sophisticatedcore:channel,ironchest:network,spartanweaponry:network,twilightforest:channel,geckolib:main] rejected vanilla connections
-[22May2025 18:13:47.614] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.89.241.63:35027] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[22May2025 18:13:47.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Quicksilver]
-[22May2025 18:14:37.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Knowledge of Death]
-[22May2025 18:14:37.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [A Strange Grave Dust]
-[22May2025 18:14:38.050] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,sons_of_sins:sons_of_sins,framework:play,curios:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,tombstone:tombstone_channel,mowziesmobs:net,sophisticatedcore:channel,ironchest:network,spartanweaponry:network,twilightforest:channel,geckolib:main] rejected vanilla connections
-[22May2025 18:14:38.051] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.89.241.63:56397] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[22May2025 18:14:45.602] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,sons_of_sins:sons_of_sins,framework:play,curios:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,tombstone:tombstone_channel,mowziesmobs:net,sophisticatedcore:channel,ironchest:network,spartanweaponry:network,twilightforest:channel,geckolib:main] rejected vanilla connections
-[22May2025 18:14:45.602] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.89.241.63:60725] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[22May2025 18:14:58.909] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [torchmaster:main,sophisticatedbackpacks:channel,citadel:main_channel,securitycraft:securitycraft,iceandfire:main_channel,sons_of_sins:sons_of_sins,framework:play,curios:main,cataclysm:main_channel,framework:handshake,lionfishapi:main_channel,forge:tier_sorting,tombstone:tombstone_channel,mowziesmobs:net,sophisticatedcore:channel,ironchest:network,spartanweaponry:network,twilightforest:channel,geckolib:main] rejected vanilla connections
-[22May2025 18:14:58.910] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.89.241.63:35183] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
-[22May2025 18:16:33.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [More Metal]
-[22May2025 18:17:16.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: markytos09[/127.89.241.63:33353] logged in with entity id 13795 at (2.5, 64.0, -4.5)
-[22May2025 18:17:16.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 joined the game
-[22May2025 18:17:16.794] [Server thread/INFO] [Jade/]: Syncing config to markytos09 (b1d8898b-5d80-34a5-a334-5f5a84a64a82)
-[22May2025 18:17:16.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Ice and Fire]
-[22May2025 18:17:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Take Aim]
-[22May2025 18:17:55.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Diamonds!]
-[22May2025 18:18:04.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [My Valentine]
-[22May2025 18:19:08.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Topazzler]
-[22May2025 18:19:18.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Very Balt Of You]
-[22May2025 18:20:58.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Massive Improvement]
-[22May2025 18:21:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Knowledge of Death]
-[22May2025 18:21:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Ashes 'n Bones]
-[22May2025 18:22:04.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Milka Oreo]
-[22May2025 18:22:51.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Topazzler]
-[22May2025 18:25:55.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [My Valentine]
-[22May2025 18:26:25.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was slain by Betrayed Guzzler
-[22May2025 18:26:25.061] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
-[22May2025 18:28:44.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Knowledge of Death]
-[22May2025 18:28:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Ashes 'n Bones]
-[22May2025 18:28:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [A Strange Grave Dust]
-[22May2025 18:29:05.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Creative Mode
-[22May2025 18:29:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Hephaestos]
-[22May2025 18:29:18.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Burying the Hatchet]
-[22May2025 18:29:20.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Acquire Hardware]
-[22May2025 18:29:23.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Suit Up]
-[22May2025 18:29:32.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [The Negotiator]
-[22May2025 18:31:58.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Diamonds!]
-[22May2025 18:33:02.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Easy Opening]
-[22May2025 18:33:29.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Hot Stuff]
-[22May2025 18:34:44.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Fiery Diamond]
-[22May2025 18:35:04.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Stone Age]
-[22May2025 18:35:10.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Monster Hunter]
-[22May2025 18:35:25.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Old School Defense]
-[22May2025 18:35:26.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [A not-so-pointy Stick!]
-[22May2025 18:35:31.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Look at my horse]
-[22May2025 18:35:44.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Suit Up]
-[22May2025 18:35:54.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Bitcoin]
-[22May2025 18:36:20.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Survival Mode
-[22May2025 18:36:29.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Bitcoin]
-[22May2025 18:36:36.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [The Autosmelter]
-[22May2025 18:37:52.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Getting an Upgrade]
-[22May2025 18:37:53.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Sweet Dreams]
-[22May2025 18:40:53.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 fell from a high place
-[22May2025 18:40:53.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Your First Grave]
-[22May2025 18:40:53.343] [Server thread/INFO] [tombstone/]: The player markytos09 has successfully been saved
-[22May2025 18:42:03.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has reached the goal [Here They Come]
-[22May2025 18:42:11.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [More Metal]
-[22May2025 18:42:22.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [The Bender of the 15th Century]
-[22May2025 18:43:52.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [A Strange Grave Dust]
-[22May2025 18:45:38.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [The Negotiator]
-[22May2025 18:46:19.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Fiery Diamond]
-[22May2025 18:46:32.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 was slain by Betrayed Guzzler
-[22May2025 18:46:32.946] [Server thread/INFO] [tombstone/]: The player parlacabras69 has successfully been saved
-[22May2025 18:47:24.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 fell from a high place
-[22May2025 18:47:24.257] [Server thread/INFO] [tombstone/]: The player markytos09 has successfully been saved
-[22May2025 18:48:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the weather to clear
-[22May2025 18:51:11.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37429, l='ServerLevel[world]', x=561.85, y=121.00, z=-60.48] died, message: 'Unemployed was slain by markytos09'
-[22May2025 18:51:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Knowledge of Death]
-[22May2025 18:51:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Neighborhood Brawl]
-[22May2025 18:51:27.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Death To Werewolves!]
-[22May2025 18:54:23.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [A Cut Above the Rest]
-[22May2025 18:56:48.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Ashes 'n Bones]
-[22May2025 18:58:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Sweet Dreams]
-[22May2025 18:58:18.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Sweet Dreams]
-[22May2025 18:58:57.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Sweet Dreams]
-[22May2025 18:59:16.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> zzzzz
-[22May2025 18:59:17.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> zzzz
-[22May2025 18:59:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> zzzzzz
-[22May2025 18:59:20.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> zzzzzz
-[22May2025 18:59:21.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> zzzzz
-[22May2025 18:59:22.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> zzzzz
-[22May2025 18:59:23.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <markytos09> ZZZZZZZZZZZZZ
-[22May2025 18:59:23.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:24.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:24.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:24.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:24.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:24.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:25.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:25.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:25.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:25.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:25.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <markytos09> ZZZZZZZZZZZZ
-[22May2025 18:59:25.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:26.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> zzz
-[22May2025 18:59:26.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> z
-[22May2025 18:59:26.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Kicked for spamming
-[22May2025 18:59:26.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
-[22May2025 18:59:26.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> z
-[22May2025 18:59:28.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> z
-[22May2025 18:59:29.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> zzzzzzz
-[22May2025 18:59:31.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <markytos09> lorea
-[22May2025 18:59:33.243] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BBBBa_oprsWK[/127.37.82.47:46237] logged in with entity id 41442 at (305.5, -19.0, -794.5)
-[22May2025 18:59:33.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
-[22May2025 18:59:33.263] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (b620d934-a090-3357-92db-bcd992043ab1)
-[22May2025 18:59:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <markytos09> z
-[22May2025 18:59:57.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Suit Up]
-[22May2025 19:04:28.102] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[22May2025 19:04:28.103] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[22May2025 19:04:28.104] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[22May2025 19:04:28.104] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[22May2025 19:04:28.105] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[22May2025 19:04:28.112] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
-[22May2025 19:04:28.112] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
-[22May2025 19:04:28.112] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
-[22May2025 19:04:28.194] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[22May2025 19:04:28.195] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[22May2025 19:04:28.201] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
-[22May2025 19:04:28.201] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
-[22May2025 19:04:28.201] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
-[22May2025 19:07:00.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Even Worse Than Copper]
-[22May2025 19:08:24.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Very Balt Of You]
-[22May2025 19:08:45.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Quicksilver]
-[22May2025 19:13:27.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alex115KLK> silvia guapa
-[22May2025 19:13:31.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alex115KLK> vaya tetitas
-[22May2025 19:14:09.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> mmmmmmmm
-[22May2025 19:14:10.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> ZZ
-[22May2025 19:14:11.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> ZZ
-[22May2025 19:14:12.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> ZZ
-[22May2025 19:14:29.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <parlacabras69> soñando con silvia...
-[22May2025 19:18:21.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/51043, l='ServerLevel[world]', x=188.09, y=70.00, z=-645.41] died, message: 'Unemployed was slain by parlacabras69'
-[22May2025 19:18:21.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Neighborhood Brawl]
-[22May2025 19:19:03.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: markytos09 lost connection: Disconnected
-[22May2025 19:19:03.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 left the game
-[22May2025 19:21:49.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=-307} BlockPos{x=370, y=66, z=-307}
-[22May2025 19:21:49.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=66, z=-307} BlockPos{x=371, y=66, z=-307}
-[22May2025 19:21:49.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=66, z=-307} BlockPos{x=371, y=66, z=-307}
-[22May2025 19:21:49.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=66, z=-307} BlockPos{x=371, y=66, z=-307}
-[22May2025 19:21:49.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-307} BlockPos{x=372, y=66, z=-307}
-[22May2025 19:21:49.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-307} BlockPos{x=372, y=66, z=-307}
-[22May2025 19:21:52.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=68, z=-307} BlockPos{x=373, y=67, z=-307}
-[22May2025 19:21:52.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=68, z=-307} BlockPos{x=373, y=67, z=-307}
-[22May2025 19:21:53.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=69, z=-307} BlockPos{x=372, y=68, z=-307}
-[22May2025 19:21:53.582] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=69, z=-307} BlockPos{x=373, y=69, z=-307}
-[22May2025 19:21:53.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=69, z=-307} BlockPos{x=373, y=69, z=-307}
-[22May2025 19:21:53.695] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=69, z=-307} BlockPos{x=373, y=69, z=-307}
-[22May2025 19:21:53.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=69, z=-307} BlockPos{x=371, y=69, z=-307}
-[22May2025 19:21:53.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=69, z=-307} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:21:54.030] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=69, z=-307} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:21:54.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=69, z=-307} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:21:54.134] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=68, z=-307} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:21:54.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=68, z=-307} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:21:54.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=67, z=-307} BlockPos{x=369, y=68, z=-307}
-[22May2025 19:21:58.831] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-305} BlockPos{x=373, y=66, z=-304}
-[22May2025 19:21:58.882] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-305} BlockPos{x=373, y=66, z=-304}
-[22May2025 19:21:58.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-306} BlockPos{x=373, y=66, z=-304}
-[22May2025 19:21:58.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-306} BlockPos{x=373, y=66, z=-304}
-[22May2025 19:21:59.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=66, z=-306} BlockPos{x=373, y=66, z=-304}
-[22May2025 19:21:59.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=-306} BlockPos{x=372, y=66, z=-306}
-[22May2025 19:21:59.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=-306} BlockPos{x=372, y=66, z=-306}
-[22May2025 19:21:59.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=-305} BlockPos{x=371, y=66, z=-306}
-[22May2025 19:21:59.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=-305} BlockPos{x=371, y=66, z=-306}
-[22May2025 19:21:59.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=-304} BlockPos{x=371, y=66, z=-306}
-[22May2025 19:21:59.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=66, z=-304} BlockPos{x=371, y=66, z=-306}
-[22May2025 19:21:59.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=66, z=-305} BlockPos{x=372, y=66, z=-304}
-[22May2025 19:22:00.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-303} BlockPos{x=372, y=66, z=-303}
-[22May2025 19:22:00.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-303} BlockPos{x=372, y=66, z=-303}
-[22May2025 19:22:00.585] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-303} BlockPos{x=372, y=66, z=-303}
-[22May2025 19:22:00.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-303} BlockPos{x=372, y=66, z=-303}
-[22May2025 19:22:00.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-303} BlockPos{x=372, y=66, z=-303}
-[22May2025 19:22:00.783] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-303} BlockPos{x=372, y=66, z=-303}
-[22May2025 19:22:00.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=66, z=-303} BlockPos{x=372, y=66, z=-303}
-[22May2025 19:22:01.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=70, z=-306} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:22:01.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=70, z=-306} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:22:01.833] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=70, z=-305} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:22:01.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=70, z=-305} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:22:01.932] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=69, z=-305} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:22:01.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=69, z=-305} BlockPos{x=370, y=69, z=-307}
-[22May2025 19:22:02.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=68, z=-306} BlockPos{x=368, y=69, z=-305}
-[22May2025 19:22:02.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=68, z=-306} BlockPos{x=368, y=69, z=-305}
-[22May2025 19:22:02.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=68, z=-306} BlockPos{x=368, y=69, z=-305}
-[22May2025 19:22:03.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=67, z=-302} BlockPos{x=371, y=68, z=-302}
-[22May2025 19:22:03.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=67, z=-302} BlockPos{x=371, y=68, z=-302}
-[22May2025 19:22:05.484] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=67, z=-304} BlockPos{x=368, y=68, z=-304}
-[22May2025 19:22:05.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=67, z=-304} BlockPos{x=368, y=68, z=-304}
-[22May2025 19:22:05.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=67, z=-305} BlockPos{x=368, y=67, z=-304}
-[22May2025 19:22:05.881] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=67, z=-306} BlockPos{x=368, y=67, z=-305}
-[22May2025 19:22:05.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=368, y=67, z=-306} BlockPos{x=368, y=67, z=-305}
-[22May2025 19:22:06.681] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=69, z=-302} BlockPos{x=368, y=69, z=-303}
-[22May2025 19:22:06.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=69, z=-302} BlockPos{x=368, y=69, z=-303}
-[22May2025 19:22:06.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=69, z=-302} BlockPos{x=368, y=69, z=-303}
-[22May2025 19:22:06.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=69, z=-302} BlockPos{x=368, y=69, z=-303}
-[22May2025 19:22:07.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=69, z=-302} BlockPos{x=371, y=69, z=-302}
-[22May2025 19:22:07.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=69, z=-302} BlockPos{x=371, y=69, z=-302}
-[22May2025 19:22:07.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=69, z=-303} BlockPos{x=371, y=69, z=-302}
-[22May2025 19:22:07.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=69, z=-303} BlockPos{x=371, y=69, z=-302}
-[22May2025 19:22:07.283] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=69, z=-303} BlockPos{x=371, y=69, z=-302}
-[22May2025 19:22:07.290] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=68, z=-304} BlockPos{x=371, y=69, z=-302}
-[22May2025 19:22:07.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=68, z=-304} BlockPos{x=371, y=69, z=-302}
-[22May2025 19:22:07.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=68, z=-305} BlockPos{x=374, y=69, z=-304}
-[22May2025 19:22:07.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=68, z=-305} BlockPos{x=374, y=69, z=-304}
-[22May2025 19:22:08.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=67, z=-306} BlockPos{x=374, y=68, z=-305}
-[22May2025 19:22:08.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=69, z=-306} BlockPos{x=374, y=68, z=-306}
-[22May2025 19:22:08.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=69, z=-306} BlockPos{x=374, y=68, z=-306}
-[22May2025 19:22:08.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=69, z=-306} BlockPos{x=374, y=68, z=-306}
-[22May2025 19:22:09.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=70, z=-306} BlockPos{x=374, y=69, z=-306}
-[22May2025 19:22:09.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=70, z=-305} BlockPos{x=373, y=70, z=-306}
-[22May2025 19:22:09.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=70, z=-305} BlockPos{x=373, y=70, z=-306}
-[22May2025 19:22:09.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=70, z=-306} BlockPos{x=373, y=70, z=-305}
-[22May2025 19:22:09.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=70, z=-306} BlockPos{x=373, y=70, z=-305}
-[22May2025 19:22:09.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=70, z=-306} BlockPos{x=372, y=70, z=-306}
-[22May2025 19:22:09.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=70, z=-306} BlockPos{x=372, y=70, z=-306}
-[22May2025 19:22:10.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=70, z=-306} BlockPos{x=371, y=70, z=-306}
-[22May2025 19:22:10.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=70, z=-306} BlockPos{x=371, y=70, z=-306}
-[22May2025 19:22:10.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=70, z=-305} BlockPos{x=370, y=70, z=-306}
-[22May2025 19:22:10.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=70, z=-304} BlockPos{x=370, y=70, z=-305}
-[22May2025 19:22:10.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=70, z=-303} BlockPos{x=370, y=70, z=-304}
-[22May2025 19:22:11.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=70, z=-303} BlockPos{x=370, y=70, z=-303}
-[22May2025 19:22:11.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=70, z=-303} BlockPos{x=370, y=70, z=-303}
-[22May2025 19:22:11.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=70, z=-303} BlockPos{x=370, y=70, z=-303}
-[22May2025 19:22:11.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=70, z=-303} BlockPos{x=370, y=70, z=-303}
-[22May2025 19:22:11.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=70, z=-303} BlockPos{x=370, y=70, z=-303}
-[22May2025 19:22:11.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=70, z=-304} BlockPos{x=373, y=70, z=-303}
-[22May2025 19:22:11.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=70, z=-304} BlockPos{x=373, y=70, z=-303}
-[22May2025 19:22:11.729] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=70, z=-304} BlockPos{x=373, y=70, z=-303}
-[22May2025 19:22:11.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=70, z=-304} BlockPos{x=371, y=70, z=-303}
-[22May2025 19:22:12.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=70, z=-304} BlockPos{x=371, y=70, z=-303}
-[22May2025 19:22:12.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=70, z=-305} BlockPos{x=371, y=70, z=-304}
-[22May2025 19:22:12.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=371, y=70, z=-305} BlockPos{x=371, y=70, z=-304}
-[22May2025 19:22:12.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=70, z=-304} BlockPos{x=369, y=70, z=-305}
-[22May2025 19:22:13.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=70, z=-303} BlockPos{x=370, y=70, z=-304}
-[22May2025 19:22:13.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=374, y=68, z=-303} BlockPos{x=374, y=69, z=-303}
-[22May2025 19:22:14.083] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=67, z=-302} BlockPos{x=373, y=67, z=-302}
-[22May2025 19:22:14.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=67, z=-302} BlockPos{x=373, y=67, z=-302}
-[22May2025 19:22:14.184] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=67, z=-302} BlockPos{x=373, y=67, z=-302}
-[22May2025 19:22:14.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=68, z=-302} BlockPos{x=373, y=67, z=-302}
-[22May2025 19:22:14.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=68, z=-302} BlockPos{x=373, y=67, z=-302}
-[22May2025 19:22:14.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=68, z=-302} BlockPos{x=373, y=67, z=-302}
-[22May2025 19:22:14.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=68, z=-302} BlockPos{x=373, y=67, z=-302}
-[22May2025 19:24:10.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=66, z=-312} BlockPos{x=371, y=66, z=-312}
-[22May2025 19:24:10.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=66, z=-312} BlockPos{x=371, y=66, z=-312}
-[22May2025 19:24:10.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=66, z=-312} BlockPos{x=370, y=66, z=-312}
-[22May2025 19:24:10.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=66, z=-312} BlockPos{x=370, y=66, z=-312}
-[22May2025 19:26:28.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=68, z=-307} BlockPos{x=370, y=67, z=-307}
-[22May2025 19:26:28.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=68, z=-307} BlockPos{x=370, y=67, z=-307}
-[22May2025 19:27:39.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
-[22May2025 19:27:39.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
-[22May2025 19:27:56.082] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64e2dd43[id=<null>,name=BBBBa_oprsWK,properties={},legacy=false] (/127.37.82.47:34577) lost connection: Disconnected
-[22May2025 19:28:42.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BBBBa_oprsWK[/127.37.82.47:54631] logged in with entity id 54517 at (418.2638834139142, 69.0, -313.4086853328245)
-[22May2025 19:28:42.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
-[22May2025 19:28:42.606] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (b620d934-a090-3357-92db-bcd992043ab1)
-[22May2025 19:29:16.230] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e180a1b[id=<null>,name=markytos09,properties={},legacy=false] (/127.89.241.63:55609) lost connection: Disconnected
-[22May2025 19:29:23.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: markytos09[/127.89.241.63:42895] logged in with entity id 54681 at (186.3459163729176, 68.0, -704.4243403938544)
-[22May2025 19:29:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 joined the game
-[22May2025 19:29:23.589] [Server thread/INFO] [Jade/]: Syncing config to markytos09 (b1d8898b-5d80-34a5-a334-5f5a84a64a82)
-[22May2025 19:29:27.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
-[22May2025 19:29:27.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
-[22May2025 19:34:41.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Creative Mode
-[22May2025 19:35:52.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Survival Mode
-[22May2025 19:37:10.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
-[22May2025 19:37:10.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
-[22May2025 19:43:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [A Strange Grave Dust]
-[22May2025 19:44:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Acquire Hardware]
-[22May2025 20:03:50.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Even Worse Than Copper]
+[22May2025 20:37:12.436] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[22May2025 20:37:12.615] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/walking_bed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22May2025 20:37:12.615] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/blud}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22May2025 20:37:12.615] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/prowler}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22May2025 20:37:12.615] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:sons_of_sins:entities/butcher}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[22May2025 20:37:12.620] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[22May2025 20:37:12.620] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[22May2025 20:37:12.634] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[22May2025 20:37:12.634] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[22May2025 20:37:12.640] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[22May2025 20:37:12.646] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[22May2025 20:37:12.647] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[22May2025 20:37:12.663] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[22May2025 20:37:12.663] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[22May2025 20:37:12.664] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[22May2025 20:37:12.665] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[22May2025 20:37:12.672] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[22May2025 20:37:12.672] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[22May2025 20:37:12.673] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[22May2025 20:37:12.673] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[22May2025 20:37:12.682] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[22May2025 20:37:12.683] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[22May2025 20:37:12.684] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[22May2025 20:37:12.692] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[22May2025 20:37:12.699] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[22May2025 20:37:12.699] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[22May2025 20:37:12.700] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[22May2025 20:37:12.700] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[22May2025 20:37:12.703] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[22May2025 20:37:12.707] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[22May2025 20:37:12.707] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[22May2025 20:37:12.729] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[22May2025 20:37:12.729] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[22May2025 20:37:12.731] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[22May2025 20:37:12.731] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[22May2025 20:37:12.733] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[22May2025 20:37:12.735] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[22May2025 20:37:12.737] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[22May2025 20:37:12.739] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[22May2025 20:37:12.739] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[22May2025 20:37:12.742] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[22May2025 20:37:12.749] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 16 recipes
+[22May2025 20:37:12.949] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3676 advancements
+[22May2025 20:37:12.960] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[22May2025 20:37:12.966] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[22May2025 20:37:12.983] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[22May2025 20:37:15.860] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.557358ms
+[22May2025 20:37:16.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[22May2025 20:37:16.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[22May2025 20:37:16.021] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[22May2025 20:37:16.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[22May2025 20:37:16.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[22May2025 20:37:16.165] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[22May2025 20:37:16.261] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22May2025 20:37:16.261] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[22May2025 20:37:16.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22May2025 20:37:16.262] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[22May2025 20:37:16.287] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22May2025 20:37:16.289] [Thread-3/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[22May2025 20:37:16.456] [Server thread/INFO] [Framework/]: Loading server configs...
+[22May2025 20:37:16.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[22May2025 20:37:20.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[22May2025 20:37:24.964] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:25.035] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:25.061] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:25.794] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:25.852] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:25.913] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:25.932] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:25.996] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:26.031] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:26.041] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:26.258] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:26.408] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:26.907] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:29.641] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:29.650] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:29.666] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:29.676] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:29.695] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:29.916] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:30.418] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:30.906] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[22May2025 20:37:31.406] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 18%
+[22May2025 20:37:31.906] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[22May2025 20:37:32.408] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 95%
+[22May2025 20:37:32.467] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11561 ms
+[22May2025 20:37:32.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (16.187s)! For help, type "help"
+[22May2025 20:37:32.539] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[22May2025 20:37:32.590] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[22May2025 20:37:32.591] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[22May2025 20:38:02.001] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: markytos09[/127.89.241.63:41057] logged in with entity id 776 at (195.37567172354775, 67.0, -607.3000000119209)
+[22May2025 20:38:02.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 joined the game
+[22May2025 20:38:02.160] [Server thread/INFO] [Jade/]: Syncing config to markytos09 (b1d8898b-5d80-34a5-a334-5f5a84a64a82)
+[22May2025 20:38:05.993] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: parlacabras69[/127.1.238.52:55363] logged in with entity id 948 at (237.9665763588284, 30.0, -603.444896556212)
+[22May2025 20:38:06.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 joined the game
+[22May2025 20:38:06.099] [Server thread/INFO] [Jade/]: Syncing config to parlacabras69 (c7207ee5-b372-3d4a-98f8-9231f0be9f73)
+[22May2025 20:38:08.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.121.220.229:36605] logged in with entity id 991 at (371.7848958988506, 67.0, -304.64109273086586)
+[22May2025 20:38:08.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
+[22May2025 20:38:08.797] [Server thread/INFO] [Jade/]: Syncing config to Alex115KLK (dd631ffb-4da3-31da-b805-8879fab74020)
+[22May2025 20:38:16.432] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Wolf['Wolf'/1184, l='ServerLevel[world]', x=416.02, y=66.00, z=-716.08]
+[22May2025 20:39:14.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Even Worse Than Copper]
+[22May2025 20:42:11.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Ice Bucket Challenge]
+[22May2025 20:45:22.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [My Valentine]
+[22May2025 20:46:09.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Diamonds!]
+[22May2025 20:47:41.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Topazzler]
+[22May2025 20:56:00.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: eltorren[/127.205.152.86:49065] logged in with entity id 7552 at (2.5, 64.0, 2.5)
+[22May2025 20:56:00.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren joined the game
+[22May2025 20:56:00.086] [Server thread/INFO] [Jade/]: Syncing config to eltorren (95951ca5-ee5c-369f-95db-94973ad0489a)
+[22May2025 20:56:00.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Ice and Fire]
+[22May2025 20:56:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren was killed
+[22May2025 20:56:16.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed eltorren
+[22May2025 20:56:16.548] [Server thread/INFO] [tombstone/]: The player eltorren has successfully been saved
