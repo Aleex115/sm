@@ -512,3 +512,21 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [22May2025 19:22:14.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=372, y=68, z=-302} BlockPos{x=373, y=67, z=-302}
 [22May2025 19:22:14.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=68, z=-302} BlockPos{x=373, y=67, z=-302}
 [22May2025 19:22:14.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=68, z=-302} BlockPos{x=373, y=67, z=-302}
+[22May2025 19:24:10.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=66, z=-312} BlockPos{x=371, y=66, z=-312}
+[22May2025 19:24:10.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=66, z=-312} BlockPos{x=371, y=66, z=-312}
+[22May2025 19:24:10.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=66, z=-312} BlockPos{x=370, y=66, z=-312}
+[22May2025 19:24:10.285] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=369, y=66, z=-312} BlockPos{x=370, y=66, z=-312}
+[22May2025 19:26:28.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=68, z=-307} BlockPos{x=370, y=67, z=-307}
+[22May2025 19:26:28.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=370, y=68, z=-307} BlockPos{x=370, y=67, z=-307}
+[22May2025 19:27:39.683] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
+[22May2025 19:27:39.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
+[22May2025 19:27:56.082] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@64e2dd43[id=<null>,name=BBBBa_oprsWK,properties={},legacy=false] (/127.37.82.47:34577) lost connection: Disconnected
+[22May2025 19:28:42.544] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BBBBa_oprsWK[/127.37.82.47:54631] logged in with entity id 54517 at (418.2638834139142, 69.0, -313.4086853328245)
+[22May2025 19:28:42.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
+[22May2025 19:28:42.606] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (b620d934-a090-3357-92db-bcd992043ab1)
+[22May2025 19:29:16.230] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e180a1b[id=<null>,name=markytos09,properties={},legacy=false] (/127.89.241.63:55609) lost connection: Disconnected
+[22May2025 19:29:23.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: markytos09[/127.89.241.63:42895] logged in with entity id 54681 at (186.3459163729176, 68.0, -704.4243403938544)
+[22May2025 19:29:23.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 joined the game
+[22May2025 19:29:23.589] [Server thread/INFO] [Jade/]: Syncing config to markytos09 (b1d8898b-5d80-34a5-a334-5f5a84a64a82)
+[22May2025 19:29:27.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
+[22May2025 19:29:27.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
