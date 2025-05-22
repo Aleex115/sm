@@ -237,3 +237,17 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [22May2025 21:02:57.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [The Parrots and the Bats]
 [22May2025 21:04:13.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Stone Age]
 [22May2025 21:05:42.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Getting an Upgrade]
+[22May2025 21:07:04.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Very Balt Of You]
+[22May2025 21:07:45.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Death To Werewolves!]
+[22May2025 21:07:50.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: eltorren has made the advancement [Suit Up]
+[22May2025 21:07:52.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=187, y=73, z=-619} BlockPos{x=187, y=74, z=-619}
+[22May2025 21:07:52.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=186, y=74, z=-619} BlockPos{x=187, y=73, z=-619}
+[22May2025 21:08:54.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has reached the goal [Strong or Careful]
+[22May2025 21:08:54.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 was slain by Alex115KLK
+[22May2025 21:08:54.624] [Server thread/INFO] [tombstone/]: The player parlacabras69 has successfully been saved
+[22May2025 21:11:26.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Bone Crusher]
+[22May2025 21:13:44.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Ashes 'n Bones]
+[22May2025 21:14:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Strong or Careful]
+[22May2025 21:14:14.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was slain by Betrayed Guzzler
+[22May2025 21:14:14.477] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[22May2025 21:14:36.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Take Aim]
