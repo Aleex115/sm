@@ -1069,6 +1069,8 @@
   },
   "mores:craft_full_topaz_gear": {
     "criteria": {
+      "craft_topaz_chestplate": "2025-05-22 19:36:38 +0000",
+      "craft_topaz_leggings": "2025-05-22 19:36:43 +0000",
       "craft_topaz_boots": "2025-05-22 18:55:34 +0000",
       "craft_topaz_helmet": "2025-05-22 18:55:32 +0000"
     },
@@ -1950,6 +1952,12 @@
     },
     "done": true
   },
+  "mores:craft_all_battleaxes": {
+    "criteria": {
+      "obtain_tourmaline_battleaxe": "2025-05-22 19:35:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-22 19:20:34 +0000"
@@ -2616,6 +2624,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-22 19:36:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2025-05-22 19:24:26 +0000"
@@ -3016,6 +3030,12 @@
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-05-22 17:46:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-05-22 19:36:57 +0000"
     },
     "done": true
   },

@@ -530,3 +530,10 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [22May2025 19:29:23.589] [Server thread/INFO] [Jade/]: Syncing config to markytos09 (b1d8898b-5d80-34a5-a334-5f5a84a64a82)
 [22May2025 19:29:27.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
 [22May2025 19:29:27.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
+[22May2025 19:34:41.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Creative Mode
+[22May2025 19:35:52.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Survival Mode
+[22May2025 19:37:10.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[22May2025 19:37:10.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[22May2025 19:43:53.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [A Strange Grave Dust]
+[22May2025 19:44:38.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 has made the advancement [Acquire Hardware]
+[22May2025 20:03:50.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 has made the advancement [Even Worse Than Copper]
