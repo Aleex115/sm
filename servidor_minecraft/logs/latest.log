@@ -346,3 +346,13 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [22May2025 21:47:00.315] [Server thread/INFO] [Jade/]: Syncing config to parlacabras69 (c7207ee5-b372-3d4a-98f8-9231f0be9f73)
 [22May2025 21:47:11.622] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: parlacabras69 lost connection: Disconnected
 [22May2025 21:47:11.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 left the game
+[22May2025 21:51:07.323] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: parlacabras69[/127.1.238.52:49771] logged in with entity id 33338 at (58.5519488623941, 64.0, -829.8915991826592)
+[22May2025 21:51:07.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 joined the game
+[22May2025 21:51:07.358] [Server thread/INFO] [Jade/]: Syncing config to parlacabras69 (c7207ee5-b372-3d4a-98f8-9231f0be9f73)
+[22May2025 21:51:22.018] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: parlacabras69 lost connection: Disconnected
+[22May2025 21:51:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 left the game
+[22May2025 21:53:47.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: parlacabras69[/127.1.238.52:39671] logged in with entity id 34049 at (58.5519488623941, 64.0, -829.8915991826592)
+[22May2025 21:53:47.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 joined the game
+[22May2025 21:53:47.658] [Server thread/INFO] [Jade/]: Syncing config to parlacabras69 (c7207ee5-b372-3d4a-98f8-9231f0be9f73)
+[22May2025 21:53:59.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: parlacabras69 lost connection: Disconnected
+[22May2025 21:53:59.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: parlacabras69 left the game
