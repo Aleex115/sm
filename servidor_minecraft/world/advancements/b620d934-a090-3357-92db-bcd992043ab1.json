@@ -4756,5 +4756,18 @@
     },
     "done": false
   },
+  "mores:craft_full_topaz_gear": {
+    "criteria": {
+      "craft_topaz_leggings": "2025-05-23 21:50:45 +0000",
+      "craft_topaz_boots": "2025-05-23 21:51:17 +0000"
+    },
+    "done": false
+  },
+  "mores:craft_all_battleaxes": {
+    "criteria": {
+      "obtain_turquoise_battleaxe": "2025-05-23 21:52:21 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
