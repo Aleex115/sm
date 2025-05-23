@@ -669,3 +669,7 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [23May2025 21:08:11.842] [Server thread/INFO] [Jade/]: Syncing config to PARLACABRAS69 (f69bddc5-c9af-3c7b-b3ed-b0c99ae79951)
 [23May2025 21:10:50.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Rotten to the Core]
 [23May2025 21:11:08.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Stay Out of my Peripheral!]
+[23May2025 21:33:05.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [A Seedy Place]
+[23May2025 21:40:38.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BBBBa_oprsWK[/127.37.82.47:42173] logged in with entity id 19271 at (419.66592617276314, 69.0, -310.73141207164093)
+[23May2025 21:40:38.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
+[23May2025 21:40:38.815] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (b620d934-a090-3357-92db-bcd992043ab1)
