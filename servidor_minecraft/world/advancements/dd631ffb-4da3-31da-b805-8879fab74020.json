@@ -5302,51 +5302,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab": {
-    "criteria": {
-      "has_block": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/steel_spear": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/steel_longbow": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-05-23 20:57:11 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/steel_halberd": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-05-23 22:42:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
     },
     "done": true
   },
@@ -5362,45 +5320,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/steel_scythe": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+      "tamed_animal": "2025-05-23 21:06:25 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate": {
+  "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
-      "has_block": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate": {
-    "criteria": {
-      "has_item": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/steel_throwing_knife": {
-    "criteria": {
-      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
+      "bestiary": "2025-05-23 21:10:50 +0000"
     },
     "done": true
   },
@@ -5410,21 +5338,45 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/steel_parrying_dagger": {
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab": {
     "criteria": {
-      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+      "has_block": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate": {
+    "criteria": {
+      "has_block": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate": {
+    "criteria": {
+      "has_item": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-05-23 21:06:25 +0000"
     },
     "done": true
   },
@@ -5440,15 +5392,243 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/steel_boomerang": {
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
-      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_bricks_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cobbled_deepslate_wall": {
+    "criteria": {
+      "has_block": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_block": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_slab_from_reinforced_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_smooth_stone": "2025-05-23 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_slab": {
+    "criteria": {
+      "has_block": "2025-05-23 22:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-05-23 22:37:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-23 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-23 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-23 22:42:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-05-23 22:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 22:47:35 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2025-05-23 22:56:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-23 22:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-23 22:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-23 22:56:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-23 22:56:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_spear": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_longbow": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_halberd": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_scythe": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_throwing_knife": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_parrying_dagger": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/steel_boomerang": {
+    "criteria": {
+      "has_steel_ingot": "2025-05-23 22:57:27 +0000"
     },
     "done": true
   },
@@ -5476,39 +5656,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2025-05-23 22:56:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-05-23 22:42:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_flanged_mace": {
     "criteria": {
       "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
     },
     "done": true
   },
@@ -5518,39 +5668,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-05-23 22:42:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_bricks_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_heavy_crossbow": {
     "criteria": {
       "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
     },
     "done": true
   },
@@ -5566,33 +5686,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/reinforced_cobbled_deepslate_wall": {
-    "criteria": {
-      "has_block": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_lance": {
     "criteria": {
       "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-05-23 22:37:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
     },
     "done": true
   },
@@ -5608,63 +5704,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/rotten_egg": {
-    "criteria": {
-      "bestiary": "2025-05-23 21:10:50 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_battleaxe": {
     "criteria": {
       "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone_slab_from_reinforced_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_reinforced_smooth_stone": "2025-05-23 22:24:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-05-23 22:56:17 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_block": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tile_wall_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_fence": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2025-05-23 22:47:35 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_brick_wall_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
     },
     "done": true
   },
@@ -5680,51 +5722,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_deepslate_tiles_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2025-05-23 23:05:00 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-05-23 22:46:36 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_stone_slab": {
-    "criteria": {
-      "has_block": "2025-05-23 22:24:58 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-05-23 22:57:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_cobbled_deepslate_wall_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-05-23 23:11:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-05-23 22:56:17 +0000"
     },
     "done": true
   },
@@ -5734,21 +5734,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_polished_deepslate_slab_from_reinforced_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_reinforced_cobbled_deepslate": "2025-05-23 22:21:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-05-23 22:56:17 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_greatsword": {
     "criteria": {
       "has_steel_ingot": "2025-05-23 22:57:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 23:05:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-23 23:11:23 +0000"
     },
     "done": true
   },
