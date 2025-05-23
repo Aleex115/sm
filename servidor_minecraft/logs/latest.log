@@ -1143,3 +1143,12 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [23May2025 16:52:38.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=62, z=-308} BlockPos{x=337, y=62, z=-308}
 [23May2025 16:52:38.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=62, z=-307} BlockPos{x=337, y=62, z=-308}
 [23May2025 16:52:38.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=62, z=-306} BlockPos{x=338, y=62, z=-307}
+[23May2025 17:14:51.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was slain by Betrayed Guzzler
+[23May2025 17:14:51.106] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[23May2025 17:14:52.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK moved too quickly! -370.80000001192093,87.0,138.80306500042252
+[23May2025 17:16:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Creative Mode
+[23May2025 17:16:51.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Burying the Hatchet]
+[23May2025 17:16:51.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Look at my horse]
+[23May2025 17:16:58.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Old School Defense]
+[23May2025 17:17:05.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [A not-so-pointy Stick!]
+[23May2025 17:18:15.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [You Shall Not Pass]
