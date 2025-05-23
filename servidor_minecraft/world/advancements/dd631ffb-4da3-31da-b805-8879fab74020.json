@@ -4559,6 +4559,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cow": "2025-05-23 21:10:33 +0000",
       "minecraft:chicken": "2025-05-22 21:02:57 +0000"
     },
     "done": false
@@ -5307,9 +5308,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_cockatrice": {
+    "criteria": {
+      "tame_rat": "2025-05-23 21:11:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-05-23 21:06:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-05-23 21:10:50 +0000"
     },
     "done": true
   },
