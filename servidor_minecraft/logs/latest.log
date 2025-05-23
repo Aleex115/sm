@@ -220,3 +220,69 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [23May2025 13:52:12.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK joined the game
 [23May2025 13:52:12.044] [Server thread/INFO] [Jade/]: Syncing config to BBBBa_oprsWK (b620d934-a090-3357-92db-bcd992043ab1)
 [23May2025 13:53:56.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has reached the goal [Bone Crusher]
+[23May2025 14:07:15.079] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.121.220.229:33641] logged in with entity id 6160 at (372.07590993685324, 67.0, -303.82779236955)
+[23May2025 14:07:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
+[23May2025 14:07:15.150] [Server thread/INFO] [Jade/]: Syncing config to Alex115KLK (dd631ffb-4da3-31da-b805-8879fab74020)
+[23May2025 14:07:48.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Creative Mode
+[23May2025 14:10:18.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alex115KLK> xxxzz
+[23May2025 14:10:19.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Alex115KLK> porno
+[23May2025 14:11:31.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Survival Mode
+[23May2025 14:11:47.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PARLACABRAS69[/127.1.238.52:55723] logged in with entity id 7506 at (-9.5, 74.0, -2.5)
+[23May2025 14:11:47.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 joined the game
+[23May2025 14:11:47.882] [Server thread/INFO] [Jade/]: Syncing config to PARLACABRAS69 (f69bddc5-c9af-3c7b-b3ed-b0c99ae79951)
+[23May2025 14:11:47.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Ice and Fire]
+[23May2025 14:14:56.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PARLACABRAS69 to Alex115KLK
+[23May2025 14:15:03.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Diamonds!]
+[23May2025 14:15:04.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [My Valentine]
+[23May2025 14:15:05.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [More Metal]
+[23May2025 14:15:09.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Topazzler]
+[23May2025 14:16:45.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Stone Age]
+[23May2025 14:17:15.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Suit Up]
+[23May2025 14:18:45.963] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PARLACABRAS69 lost connection: Disconnected
+[23May2025 14:18:45.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 left the game
+[23May2025 14:19:07.257] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: markytos09 lost connection: Disconnected
+[23May2025 14:19:07.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 left the game
+[23May2025 14:19:44.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[23May2025 14:19:45.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[23May2025 14:19:46.262] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PARLACABRAS69[/127.1.238.52:53277] logged in with entity id 12434 at (62.53415484421082, 66.02442408821369, -826.0028297948722)
+[23May2025 14:19:46.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 joined the game
+[23May2025 14:19:46.281] [Server thread/INFO] [Jade/]: Syncing config to PARLACABRAS69 (f69bddc5-c9af-3c7b-b3ed-b0c99ae79951)
+[23May2025 14:19:46.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PARLACABRAS69 to Alex115KLK
+[23May2025 14:19:47.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PARLACABRAS69 to Alex115KLK
+[23May2025 14:19:48.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PARLACABRAS69 to Alex115KLK
+[23May2025 14:19:49.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported PARLACABRAS69 to Alex115KLK
+[23May2025 14:20:08.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: markytos09[/127.89.241.63:57905] logged in with entity id 12822 at (-27.54537135416862, 74.16610926093821, -698.7573816133004)
+[23May2025 14:20:08.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 joined the game
+[23May2025 14:20:08.036] [Server thread/INFO] [Jade/]: Syncing config to markytos09 (b1d8898b-5d80-34a5-a334-5f5a84a64a82)
+[23May2025 14:20:21.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: markytos09 lost connection: Disconnected
+[23May2025 14:20:21.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 left the game
+[23May2025 14:20:52.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Creative Mode
+[23May2025 14:21:13.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: markytos09[/127.89.241.63:48529] logged in with entity id 13536 at (-27.54537135416862, 72.0, -698.7573816133004)
+[23May2025 14:21:13.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 joined the game
+[23May2025 14:21:13.616] [Server thread/INFO] [Jade/]: Syncing config to markytos09 (b1d8898b-5d80-34a5-a334-5f5a84a64a82)
+[23May2025 14:21:28.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[23May2025 14:21:28.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[23May2025 14:21:48.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: markytos09 lost connection: Disconnected
+[23May2025 14:21:48.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 left the game
+[23May2025 14:22:04.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Alex115KLK[/127.121.220.229:44517] logged in with entity id 14325 at (32.76826991401188, 96.48228930455315, -755.2308729053017)
+[23May2025 14:22:04.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK joined the game
+[23May2025 14:22:04.046] [Server thread/INFO] [Jade/]: Syncing config to Alex115KLK (dd631ffb-4da3-31da-b805-8879fab74020)
+[23May2025 14:22:31.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [The Bender of the 15th Century]
+[23May2025 14:22:31.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: markytos09[/127.89.241.63:52035] logged in with entity id 14798 at (-51.69999998807907, 79.25220334025373, -688.535289980813)
+[23May2025 14:22:31.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: markytos09 joined the game
+[23May2025 14:22:31.914] [Server thread/INFO] [Jade/]: Syncing config to markytos09 (b1d8898b-5d80-34a5-a334-5f5a84a64a82)
+[23May2025 14:22:33.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [The Negotiator]
+[23May2025 14:23:20.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Alex115KLK's game mode to Survival Mode
+[23May2025 14:23:41.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=411, y=68, z=-313} BlockPos{x=411, y=68, z=-314}
+[23May2025 14:23:48.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=421, y=68, z=-312} BlockPos{x=421, y=68, z=-313}
+[23May2025 14:24:53.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Sweet Dreams]
+[23May2025 14:24:55.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PARLACABRAS69> ZZZZZZZ
+[23May2025 14:24:57.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PARLACABRAS69> ZZZZZZ
+[23May2025 14:24:59.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PARLACABRAS69> zzz
+[23May2025 14:25:21.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BBBBa_oprsWK> ZZZZZZZZ
+[23May2025 14:26:05.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PARLACABRAS69 lost connection: Disconnected
+[23May2025 14:26:05.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 left the game
+[23May2025 14:26:28.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Knowledge raises the soul]
+[23May2025 14:26:44.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PARLACABRAS69[/127.1.238.52:52639] logged in with entity id 17090 at (30.68561172942827, 64.41999998688698, -749.8656907459521)
+[23May2025 14:26:44.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 joined the game
+[23May2025 14:26:44.933] [Server thread/INFO] [Jade/]: Syncing config to PARLACABRAS69 (f69bddc5-c9af-3c7b-b3ed-b0c99ae79951)
