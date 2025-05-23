@@ -4756,6 +4756,12 @@
     },
     "done": false
   },
+  "ironchest:recipes/decorations/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2025-05-23 21:53:29 +0000"
+    },
+    "done": true
+  },
   "mores:craft_full_topaz_gear": {
     "criteria": {
       "craft_topaz_leggings": "2025-05-23 21:50:45 +0000",
@@ -4763,11 +4769,29 @@
     },
     "done": false
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-23 21:53:29 +0000"
+    },
+    "done": true
+  },
   "mores:craft_all_battleaxes": {
     "criteria": {
       "obtain_turquoise_battleaxe": "2025-05-23 21:52:21 +0000"
     },
     "done": false
+  },
+  "mores:obtain_silver_ore": {
+    "criteria": {
+      "obtain_silver_ore": "2025-05-23 22:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-23 21:53:29 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -41,6 +41,7 @@
       "minecraft:old_growth_pine_taiga": "2025-05-23 15:01:44 +0000",
       "minecraft:taiga": "2025-05-23 14:11:48 +0000",
       "minecraft:cherry_grove": "2025-05-23 14:55:24 +0000",
+      "minecraft:sunflower_plains": "2025-05-23 22:07:14 +0000",
       "minecraft:birch_forest": "2025-05-23 14:59:03 +0000",
       "minecraft:river": "2025-05-23 14:15:59 +0000",
       "minecraft:dripstone_caves": "2025-05-23 14:30:22 +0000",
@@ -5058,21 +5059,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-05-23 21:41:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-05-23 21:21:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-05-23 21:35:51 +0000"
     },
     "done": true
   },
@@ -5082,17 +5071,47 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-23 21:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-23 21:35:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-23 21:41:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-05-23 21:41:35 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "mores:obtain_obsidian_ingot": {
     "criteria": {
-      "wheat": "2025-05-23 21:33:05 +0000"
+      "obsidian_ingot": "2025-05-23 21:57:27 +0000"
     },
     "done": true
+  },
+  "mores:craft_shield": {
+    "criteria": {
+      "obtain_obsidian_shield": "2025-05-23 21:58:33 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_all_shields": {
+    "criteria": {
+      "obtain_obsidian_shield": "2025-05-23 21:58:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
