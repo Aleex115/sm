@@ -4713,6 +4713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-23 17:27:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-05-23 16:09:29 +0000"
@@ -4730,6 +4736,12 @@
       "has_bone_meal": "2025-05-23 16:45:05 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "mining_planks": "2025-05-23 17:32:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
@@ -4767,9 +4779,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-05-23 15:36:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mining_stairs": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
     },
     "done": true
   },
@@ -4809,9 +4833,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
     },
     "done": true
   },
@@ -4875,6 +4911,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/mining_slab": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-05-23 16:05:08 +0000"
@@ -4899,9 +4941,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/mining_plate": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2025-05-23 16:11:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mining_button": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
     },
     "done": true
   },
@@ -4929,6 +4983,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/mining_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-05-23 15:59:44 +0000"
@@ -4947,9 +5007,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-23 15:35:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mining_door": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/mining_chest": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
     },
     "done": true
   },
@@ -5055,9 +5133,21 @@
     },
     "done": true
   },
+  "mores:craft_shield": {
+    "criteria": {
+      "obtain_topaz_shield": "2025-05-23 17:18:15 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mining_gate": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
     },
     "done": true
   },
@@ -5085,6 +5175,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/mining_fence": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "has_battle_hammer": "2025-05-23 16:00:57 +0000"
@@ -5097,6 +5193,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/mining_sign": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-05-23 15:36:21 +0000"
@@ -5106,6 +5208,12 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
     },
     "done": true
   },
@@ -5144,6 +5252,12 @@
       "has_red_mushroom": "2025-05-23 15:03:09 +0000"
     },
     "done": true
+  },
+  "mores:craft_all_shields": {
+    "criteria": {
+      "obtain_topaz_shield": "2025-05-23 17:18:15 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
