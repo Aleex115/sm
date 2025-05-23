@@ -4713,117 +4713,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "mores:obtain_moissanite": {
     "criteria": {
-      "has_flint": "2025-05-23 17:27:43 +0000"
+      "obtain_moissanite_ore": "2025-05-23 14:55:27 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "iceandfire:iceandfire/kill_troll": {
     "criteria": {
-      "deflected_projectile": "2025-05-23 16:09:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-05-23 16:45:05 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:arborist": {
-    "criteria": {
-      "mining_planks": "2025-05-23 17:32:23 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-05-23 16:03:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_fence": {
-    "criteria": {
-      "has_planks": "2025-05-23 15:59:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-05-23 16:53:16 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:saber": {
-    "criteria": {
-      "has_saber": "2025-05-23 16:00:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-05-23 16:10:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_face": {
-    "criteria": {
-      "has_item": "2025-05-23 16:11:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-05-23 15:36:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/mining_stairs": {
-    "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-05-23 15:58:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
-  "mores:craft_full_tourmaline_armor": {
-    "criteria": {
-      "craft_full_tourmaline_armor": "2025-05-23 15:55:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-05-23 15:36:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-05-23 16:05:07 +0000"
+      "killed_fire_dragon": "2025-05-23 15:03:07 +0000"
     },
     "done": true
   },
@@ -4833,135 +4731,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-05-23 16:53:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-05-23 16:28:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-05-23 15:59:58 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/forest_troll_leather_leggings": {
     "criteria": {
       "has_item": "2025-05-23 15:03:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cherry_sign": {
-    "criteria": {
-      "has_planks": "2025-05-23 15:59:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-05-23 15:59:58 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_abandoned_temple": {
-    "criteria": {
-      "location0": "2025-05-23 16:00:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-23 15:59:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/wood/mining_slab": {
-    "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-05-23 15:59:58 +0000"
-    },
-    "done": true
-  },
-  "mores:obtain_moissanite": {
-    "criteria": {
-      "obtain_moissanite_ore": "2025-05-23 14:55:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_door": {
-    "criteria": {
-      "has_planks": "2025-05-23 15:59:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/mining_plate": {
-    "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_tile": {
-    "criteria": {
-      "has_item": "2025-05-23 16:11:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/mining_button": {
-    "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-05-23 16:28:53 +0000"
     },
     "done": true
   },
@@ -4971,45 +4743,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
+  "minecraft:recipes/misc/bowl": {
     "criteria": {
-      "has_bone_meal": "2025-05-23 16:45:05 +0000"
+      "has_red_mushroom": "2025-05-23 15:03:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_item": "2025-05-23 16:11:53 +0000"
+      "has_red_mushroom": "2025-05-23 15:03:09 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/mining_trapdoor": {
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
+      "has_iron_backpack": "2025-05-23 15:10:03 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_slab": {
+  "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
-      "has_planks": "2025-05-23 15:59:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-05-23 15:59:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-05-23 15:36:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+      "has_name_tag": "2025-05-23 15:10:16 +0000"
     },
     "done": true
   },
@@ -5019,33 +4773,27 @@
     },
     "done": true
   },
-  "twilightforest:recipes/redstone/wood/mining_door": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
+      "has_paper": "2025-05-23 15:35:42 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/mining_chest": {
+  "minecraft:recipes/redstone/lectern": {
     "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
+      "has_book": "2025-05-23 15:36:15 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+  "minecraft:recipes/misc/writable_book": {
     "criteria": {
-      "has_item": "2025-05-23 16:11:53 +0000"
+      "has_book": "2025-05-23 15:36:15 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
+  "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-05-23 15:03:09 +0000"
+      "has_book": "2025-05-23 15:36:15 +0000"
     },
     "done": true
   },
@@ -5055,21 +4803,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_stairs": {
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-23 15:36:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-05-23 15:36:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-05-23 15:36:21 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_full_tourmaline_armor": {
+    "criteria": {
+      "craft_full_tourmaline_armor": "2025-05-23 15:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-05-23 15:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-05-23 15:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-23 15:59:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glow_item_frame": {
+  "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
-      "has_glow_ink_sac": "2025-05-23 17:14:36 +0000"
+      "has_planks": "2025-05-23 15:59:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
-      "has_emerald": "2025-05-23 16:08:59 +0000"
+      "has_planks": "2025-05-23 15:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2025-05-23 15:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 15:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-23 15:59:44 +0000"
     },
     "done": true
   },
@@ -5085,33 +4887,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+  "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
-      "has_book": "2025-05-23 15:36:15 +0000"
+      "has_planks": "2025-05-23 15:59:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_banner": {
+  "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
-      "has_black_wool": "2025-05-23 16:53:16 +0000"
+      "has_item": "2025-05-23 15:59:58 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+  "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
-      "has_book": "2025-05-23 15:36:15 +0000"
+      "has_item": "2025-05-23 15:59:58 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_axe": {
+  "iceandfire:recipes/misc/chain": {
     "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
+      "has_item": "2025-05-23 15:59:58 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/bestiary": {
+  "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
-      "has_item": "2025-05-23 16:04:39 +0000"
+      "has_item": "2025-05-23 15:59:58 +0000"
     },
     "done": true
   },
@@ -5121,63 +4923,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
+  "dungeons_arise:find_abandoned_temple": {
     "criteria": {
-      "has_log": "2025-05-23 15:58:51 +0000"
+      "location0": "2025-05-23 16:00:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
+  "spartanweaponry:saber": {
     "criteria": {
-      "has_packed_ice": "2025-05-23 16:12:04 +0000"
-    },
-    "done": true
-  },
-  "mores:craft_shield": {
-    "criteria": {
-      "obtain_topaz_shield": "2025-05-23 17:18:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/redstone/wood/mining_gate": {
-    "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2025-05-23 15:03:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/cherry_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-23 15:59:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
-    "criteria": {
-      "has_item": "2025-05-23 16:11:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/mining_fence": {
-    "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
+      "has_saber": "2025-05-23 16:00:54 +0000"
     },
     "done": true
   },
@@ -5187,87 +4941,9 @@
     },
     "done": true
   },
-  "spartanweaponry:lance": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_lance": "2025-05-23 16:14:43 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/mining_sign": {
-    "criteria": {
-      "has_item": "2025-05-23 17:32:23 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-05-23 15:36:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-05-23 15:35:42 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-05-23 15:10:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-05-23 16:50:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-05-23 17:09:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_torch": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_red_mushroom": "2025-05-23 15:03:09 +0000"
-    },
-    "done": true
-  },
-  "mores:craft_all_shields": {
-    "criteria": {
-      "obtain_topaz_shield": "2025-05-23 17:18:15 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2025-05-23 15:10:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2025-05-23 16:05:08 +0000"
+      "has_snowball": "2025-05-23 16:03:50 +0000"
     },
     "done": true
   },
@@ -5277,15 +4953,339 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "iceandfire:recipes/misc/bestiary": {
     "criteria": {
-      "has_beef": "2025-05-23 16:28:53 +0000"
+      "has_item": "2025-05-23 16:04:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-23 16:05:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-05-23 16:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-05-23 16:08:59 +0000"
     },
     "done": true
   },
   "mores:obtain_emerald": {
     "criteria": {
       "obtain_topaz_gem": "2025-05-23 16:08:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-23 16:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-23 16:10:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_face": {
+    "criteria": {
+      "has_item": "2025-05-23 16:11:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_tile": {
+    "criteria": {
+      "has_item": "2025-05-23 16:11:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_slab": {
+    "criteria": {
+      "has_item": "2025-05-23 16:11:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-05-23 16:11:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
+    "criteria": {
+      "has_item": "2025-05-23 16:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-05-23 16:12:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:lance": {
+    "criteria": {
+      "has_lance": "2025-05-23 16:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-23 16:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-23 16:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-23 16:28:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-23 16:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-23 16:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-23 16:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-23 16:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-23 16:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-23 16:53:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-23 17:09:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-23 17:14:36 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_shield": {
+    "criteria": {
+      "obtain_topaz_shield": "2025-05-23 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "mores:craft_all_shields": {
+    "criteria": {
+      "obtain_topaz_shield": "2025-05-23 17:18:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-23 17:26:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-05-23 17:27:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "mining_planks": "2025-05-23 17:32:23 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/building_blocks/wood/mining_stairs": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/mining_slab": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mining_plate": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mining_button": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mining_trapdoor": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mining_door": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/mining_chest": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/mining_gate": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/mining_fence": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/mining_sign": {
+    "criteria": {
+      "has_item": "2025-05-23 17:32:23 +0000"
     },
     "done": true
   },
