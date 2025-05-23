@@ -1823,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-23 16:28:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_spear": {
     "criteria": {
       "has_steel_ingot": "2025-05-23 14:40:06 +0000"
@@ -1976,6 +1982,12 @@
   "spartanweaponry:recipes/grease_ball": {
     "criteria": {
       "has_meat": "2025-05-23 14:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-23 16:28:02 +0000"
     },
     "done": true
   },
@@ -2842,6 +2854,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-23 16:28:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 14:40:05 +0000"
@@ -3109,6 +3127,12 @@
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-05-23 15:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-23 16:30:12 +0000"
     },
     "done": true
   },
@@ -3634,6 +3658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-05-23 16:29:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 14:40:05 +0000"
@@ -3691,6 +3721,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 14:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-05-23 16:29:19 +0000"
     },
     "done": true
   },
@@ -3946,6 +3982,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_oxidized_cut_copper": "2025-05-23 16:28:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_javelin": {
     "criteria": {
       "has_steel_ingot": "2025-05-23 14:40:06 +0000"
@@ -3955,6 +3997,12 @@
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2025-05-23 15:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-05-23 16:29:19 +0000"
     },
     "done": true
   },
@@ -4324,6 +4372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-05-23 16:29:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-05-23 15:07:07 +0000"
@@ -4393,6 +4447,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-23 14:40:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2025-05-23 16:29:19 +0000"
     },
     "done": true
   },

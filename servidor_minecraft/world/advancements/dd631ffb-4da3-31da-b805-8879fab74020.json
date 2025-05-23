@@ -4803,6 +4803,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-23 16:28:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-05-23 15:59:58 +0000"
@@ -4878,6 +4884,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2025-05-23 16:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-23 16:28:53 +0000"
     },
     "done": true
   },
@@ -5100,6 +5112,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-05-23 16:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-23 16:28:53 +0000"
     },
     "done": true
   },
