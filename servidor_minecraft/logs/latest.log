@@ -967,3 +967,6 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [23May2025 23:11:23.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Sneak 100]
 [23May2025 23:15:30.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
 [23May2025 23:15:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game
+[23May2025 23:33:56.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[23May2025 23:34:19.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[23May2025 23:34:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
