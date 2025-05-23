@@ -952,3 +952,18 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [23May2025 22:34:08.410] [Server thread/INFO] [tombstone/]: The player BBBBa_oprsWK has successfully been saved
 [23May2025 22:35:46.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [Isn't It Iron Pick]
 [23May2025 22:37:07.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Enchanter]
+[23May2025 22:53:48.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK was slain by Betrayed Guzzler
+[23May2025 22:53:48.799] [Server thread/INFO] [tombstone/]: The player Alex115KLK has successfully been saved
+[23May2025 22:53:57.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK has made the advancement [The Autosmelter]
+[23May2025 22:57:27.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Hephaestos]
+[23May2025 22:59:31.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 has made the advancement [Best Friends Forever]
+[23May2025 23:00:04.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK was slain by Cyclops
+[23May2025 23:00:04.748] [Server thread/INFO] [tombstone/]: The player BBBBa_oprsWK has successfully been saved
+[23May2025 23:05:00.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Ambush]
+[23May2025 23:09:10.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set PARLACABRAS69's game mode to Creative Mode
+[23May2025 23:09:18.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set PARLACABRAS69's game mode to Survival Mode
+[23May2025 23:09:37.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PARLACABRAS69 lost connection: Disconnected
+[23May2025 23:09:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 left the game
+[23May2025 23:11:23.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Sneak 100]
+[23May2025 23:15:30.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BBBBa_oprsWK lost connection: Disconnected
+[23May2025 23:15:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BBBBa_oprsWK left the game

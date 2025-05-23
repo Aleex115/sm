@@ -547,6 +547,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-23 14:15:38 +0000",
       "chicken": "2025-05-23 14:32:27 +0000",
+      "cooked_mutton": "2025-05-23 22:45:41 +0000",
       "apple": "2025-05-23 15:02:38 +0000",
       "pumpkin_pie": "2025-05-23 22:17:43 +0000",
       "mutton": "2025-05-23 14:31:56 +0000",
@@ -5146,6 +5147,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-23 22:59:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-05-23 22:19:29 +0000"
@@ -5155,6 +5162,24 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-05-23 22:25:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-23 22:50:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-05-23 22:43:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-23 22:50:42 +0000"
     },
     "done": true
   },
@@ -5173,6 +5198,12 @@
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-05-23 22:19:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-23 22:50:42 +0000"
     },
     "done": true
   },
