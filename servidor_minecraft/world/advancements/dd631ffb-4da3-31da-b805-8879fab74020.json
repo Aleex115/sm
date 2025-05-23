@@ -4725,6 +4725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-23 16:45:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-05-23 16:03:50 +0000"
@@ -4734,6 +4740,12 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-05-23 15:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-23 16:53:16 +0000"
     },
     "done": true
   },
@@ -4800,6 +4812,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-05-23 16:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-05-23 16:53:16 +0000"
     },
     "done": true
   },
@@ -4899,6 +4917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-23 16:45:05 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dread_stone_slab": {
     "criteria": {
       "has_item": "2025-05-23 16:11:53 +0000"
@@ -4980,6 +5004,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-05-23 15:36:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-23 16:53:16 +0000"
     },
     "done": true
   },
@@ -5082,6 +5112,12 @@
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-05-23 15:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-23 16:50:05 +0000"
     },
     "done": true
   },
