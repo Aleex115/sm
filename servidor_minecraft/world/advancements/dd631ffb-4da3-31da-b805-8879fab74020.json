@@ -311,6 +311,7 @@
       "obtain_ruby_gem": "2025-05-22 18:34:44 +0000",
       "obtain_tin_ingot": "2025-05-22 17:46:18 +0000",
       "obtain_silver_ingot": "2025-05-22 17:48:02 +0000",
+      "obtain_moissanite_gem": "2025-05-23 14:55:27 +0000",
       "obtain_sapphire_gem": "2025-05-22 18:20:58 +0000",
       "obtain_turquoise_gem": "2025-05-22 18:35:54 +0000"
     },
@@ -1713,8 +1714,10 @@
       "minecraft:skeleton": "2025-05-22 18:09:24 +0000",
       "minecraft:spider": "2025-05-22 18:03:16 +0000",
       "minecraft:creeper": "2025-05-22 18:05:05 +0000",
+      "minecraft:cave_spider": "2025-05-23 14:40:41 +0000",
       "minecraft:enderman": "2025-05-22 21:16:24 +0000",
-      "minecraft:zombie": "2025-05-22 18:04:41 +0000"
+      "minecraft:zombie": "2025-05-22 18:04:41 +0000",
+      "minecraft:zombie_villager": "2025-05-23 14:41:28 +0000"
     },
     "done": false
   },
@@ -3625,6 +3628,7 @@
     "criteria": {
       "craft_topaz_chestplate": "2025-05-22 19:36:38 +0000",
       "craft_topaz_leggings": "2025-05-22 19:36:43 +0000",
+      "craft_topaz_sword": "2025-05-23 15:10:02 +0000",
       "craft_topaz_boots": "2025-05-22 18:55:34 +0000",
       "craft_topaz_helmet": "2025-05-22 18:55:32 +0000",
       "craft_topaz_pickaxe": "2025-05-23 14:09:07 +0000"
@@ -4600,6 +4604,162 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-23 14:19:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-23 14:26:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-05-23 14:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-23 14:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-23 14:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-23 14:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-23 14:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-23 14:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-23 14:31:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-23 14:31:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-05-23 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-05-23 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "mores:obtain_moissanite": {
+    "criteria": {
+      "obtain_moissanite_ore": "2025-05-23 14:55:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-23 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-23 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-23 15:03:07 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-05-23 15:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-23 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-23 15:10:16 +0000"
     },
     "done": true
   },
