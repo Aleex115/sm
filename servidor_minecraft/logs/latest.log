@@ -662,3 +662,10 @@ com.google.gson.JsonSyntaxException: Unknown type ''
 [23May2025 20:55:58.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=68, z=-304} BlockPos{x=329, y=68, z=-304}
 [23May2025 20:55:58.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=330, y=68, z=-304} BlockPos{x=329, y=68, z=-304}
 [23May2025 20:56:36.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set the time to 1000]
+[23May2025 21:04:37.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set the time to 1000]
+[23May2025 21:06:25.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Best Friends Forever]
+[23May2025 21:08:11.812] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PARLACABRAS69[/127.1.238.52:46477] logged in with entity id 7111 at (179.75703796192136, 55.0, -660.7894334050686)
+[23May2025 21:08:11.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PARLACABRAS69 joined the game
+[23May2025 21:08:11.842] [Server thread/INFO] [Jade/]: Syncing config to PARLACABRAS69 (f69bddc5-c9af-3c7b-b3ed-b0c99ae79951)
+[23May2025 21:10:50.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Rotten to the Core]
+[23May2025 21:11:08.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has made the advancement [Stay Out of my Peripheral!]
